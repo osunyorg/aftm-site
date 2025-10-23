@@ -1,2 +1,15 @@
 .logo .logo-text
     font-weight: 700 !important
+
+header#document-header
+    .primary-menu
+        padding-top: pxToRem(10)
+        padding-bottom: pxToRem(20)
+        @include media-breakpoint-up(desktop)
+            > .container
+                align-items: flex-end
+                .nav-level-1
+                    margin-bottom: space(-2)
+
+#document-footer
+    border-top: var(--border-width) solid var(--color-border)
