@@ -8,13 +8,6 @@ items:
   children: []
   path: "/pages/therapies-metacognitives"
   file: content/fr/pages/therapies-metacognitives/_index.html
-- title: À propos
-  target: "/a-propos/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/a-propos"
-  file: content/fr/pages/a-propos/_index.html
 - title: Recherche
   target: "/recherche/"
   kind: page
@@ -22,6 +15,13 @@ items:
   children: []
   path: "/pages/recherche"
   file: content/fr/pages/recherche/_index.html
+- title: À propos
+  target: "/a-propos/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/a-propos"
+  file: content/fr/pages/a-propos/_index.html
 - title: Contact
   target: "/contact/"
   kind: page
@@ -29,4 +29,14 @@ items:
   children: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
+- title: Formations
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+- title: Métacognition & Santé Mentale
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
 
