@@ -29,4 +29,11 @@ items:
   children: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
+- title: Qui sommes nous ?
+  target: "/qui-sommes-nous/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/qui-sommes-nous"
+  file: content/fr/pages/qui-sommes-nous/_index.html
 
