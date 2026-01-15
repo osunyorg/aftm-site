@@ -36,4 +36,11 @@ items:
   children: []
   path: "/pages/qui-sommes-nous"
   file: content/fr/pages/qui-sommes-nous/_index.html
+- title: Nous rejoindre
+  target: "/nous-rejoindre/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/nous-rejoindre"
+  file: content/fr/pages/nous-rejoindre/_index.html
 
