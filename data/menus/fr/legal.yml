@@ -8,6 +8,11 @@ items:
   children: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
+- title: Rejoingnez-nous.
+  target: https://www.helloasso.com/associations/association-francaise-de-therapie-metacognitive/adhesions/inscription-aftm-2026
+  kind: url
+  new_tab: true
+  children: []
 - title: Mentions légales
   target: "/mentions-legales/"
   kind: page
