@@ -36,4 +36,11 @@ items:
   children: []
   path: "/pages/qui-sommes-nous"
   file: content/fr/pages/qui-sommes-nous/_index.html
+- title: Colloque AFTM 2026
+  target: "/colloque-aftm-2026/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/colloque-aftm-2026"
+  file: content/fr/pages/colloque-aftm-2026/_index.html
 
