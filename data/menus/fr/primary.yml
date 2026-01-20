@@ -8,13 +8,6 @@ items:
   children: []
   path: "/pages/therapies-metacognitives"
   file: content/fr/pages/therapies-metacognitives/_index.html
-- title: Recherche
-  target: "/recherche/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/recherche"
-  file: content/fr/pages/recherche/_index.html
 - title: Contact
   target: "/contact/"
   kind: page
