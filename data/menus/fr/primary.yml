@@ -10,6 +10,15 @@ items:
   descendants_targets: []
   path: "/pages/therapies-metacognitives"
   file: content/fr/pages/therapies-metacognitives/_index.html
+- title: Thérapie MERIT
+  slug: therapie-merit
+  target: "/therapies-metacognitives/merit-1/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/therapies-metacognitives/merit-1"
+  file: content/fr/pages/therapies-metacognitives/merit-1/_index.html
 - title: Contact
   slug: contact
   target: "/contact/"
@@ -37,13 +46,4 @@ items:
   descendants_targets: []
   path: "/pages/colloque-aftm-2026"
   file: content/fr/pages/colloque-aftm-2026/_index.html
-- title: Thérapie MERIT
-  slug: therapie-merit
-  target: "/therapies-metacognitives/merit-1/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/therapies-metacognitives/merit-1"
-  file: content/fr/pages/therapies-metacognitives/merit-1/_index.html
 
