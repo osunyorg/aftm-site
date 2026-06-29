@@ -47,4 +47,11 @@ items:
   descendants_targets: []
   path: "/pages/colloque-aftm-2026"
   file: content/fr/pages/colloque-aftm-2026/_index.html
+- title: Test sous menu
+  slug: test-sous-menu
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+  descendants_targets: []
 
