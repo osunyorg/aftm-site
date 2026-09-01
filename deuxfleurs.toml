@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/violeau-louis-2020-2-cleanedpdf/"
+
+[[redirects]]
 from = "/aftm/index.html"
 to = "/laboratoires/aftm/"
 
